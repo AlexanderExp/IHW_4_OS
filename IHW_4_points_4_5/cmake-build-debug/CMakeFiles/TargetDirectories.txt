@@ -1,0 +1,3 @@
+/Users/admin/CLionProjects/IHW_4_points_4_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/admin/CLionProjects/IHW_4_points_4_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/CLionProjects/IHW_4_points_4_5/cmake-build-debug/CMakeFiles/IHW_4_points_4_5.dir
